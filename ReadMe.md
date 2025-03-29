@@ -8,3 +8,9 @@ Staging area (Index): Where changes are prepared before committing.
 Git directory (.git folder): Contains all version history, configurations, and metadata.
 
 Developers use local repositories to work offline, experiment with changes, and ensure code stability before synchronizing with remote repositories like GitHub, GitLab, or Bitbucket.
+
+
+*****************************
+
+
+This is a new feature
